@@ -2,6 +2,11 @@
 Implemented a data-driven strategy for determining bonuses and incentives for healthy employees. Established a SQL database, utilized SQL queries for analysis, and constructed an interactive Power BI dashboard in alignment with wireframe specifications.
 use hr_analytics.
 
+## Overview
+![image Alt](https://github.com/lekhakasinadhuni07/HR_Analytics_Dashboard/blob/59ebfda128f9284a2a5b7699c3158f182827f2ae/HR%20Analytics%20overview.png)
+## Reasons
+![image Alt](https://github.com/lekhakasinadhuni07/HR_Analytics_Dashboard/blob/59ebfda128f9284a2a5b7699c3158f182827f2ae/HR%20Analytics%20overview.png)
+
 ## Create a join table
 ```sql
 select * from Absenteeism_at_work as a
